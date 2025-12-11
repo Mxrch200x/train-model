@@ -1,3 +1,4 @@
+# train-model
 รันใน ven10
 
 load package 
@@ -5,5 +6,5 @@ load package
 
 ทำงานโดย 
 1. use train_hugging first by python train_hugging.py
-2.after it done use train_sklearn_from_hf by python train_sklearn_from_hf.py 
-3.finally use predict_update_mysql by python predict_update_mysql.py
+2. after it done use train_sklearn_from_hf by python train_sklearn_from_hf.py 
+3. finally use predict_update_mysql by python predict_update_mysql.py
