@@ -1,0 +1,14 @@
+# Python venv
+.venv/
+venv/
+env/
+
+# Cache & models
+__pycache__/
+hf_cookie_model/
+cookie_sklearn_clf.joblib
+
+# IDE garbage
+*.log
+*.tmp
+.DS_Store
